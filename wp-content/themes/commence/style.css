@@ -17,6 +17,7 @@
   border: 2px solid var(--e-global-color-secondary );
   border-radius: 0;
   padding:0;
+  background: transparent;
 }
 
 .tribe-common-c-btn.tribe-events-c-search__button{
