@@ -13,6 +13,8 @@
 
 /*EVENTS CALENDAR*/
 
+/*LIST*/
+
 .tribe-common .tribe-common-c-btn-border, .tribe-common a.tribe-common-c-btn-border{
   border: 2px solid var(--e-global-color-secondary );
   border-radius: 0;
@@ -87,4 +89,27 @@
 .tribe-common .tribe-common-c-btn-border-small, .tribe-common a.tribe-common-c-btn-border-small:hover{
   background-color: var(--e-global-color-secondary )!important;
   color: var(--e-global-color-primary );
+}
+
+/*SINGLE EVENT*/
+.tribe-events-event-meta.primary, .tribe-events-event-meta.secondary{
+  width: 100%;
+}
+
+.tribe-events-meta-group .tribe-events-single-section-title{
+  color: var(--e-global-color-secondary );
+  font-size: 32px;
+  font-family: "Blooming Elegant Sans", Sans-serif;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.elementor-kit-5 h2{
+  font-size: 18px;
+  font-family: var(--e-global-typography-text-font-family ), Sans-serif;
+  color: var(--e-global-color-text);
+}
+
+.tribe-common-c-svgicon--cal-export{
+  display: none;
 }
