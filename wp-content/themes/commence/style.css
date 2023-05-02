@@ -156,4 +156,9 @@
 .tribe-events-c-subscribe-dropdown__button{
   display: flex!important;
   align-items: center;
+  width: 225px;
+}
+
+.tribe-common-c-svgicon--caret-down{
+  margin-left: 0;
 }
