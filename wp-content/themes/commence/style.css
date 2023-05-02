@@ -28,7 +28,7 @@
   background-color: var( --e-global-color-af0d1eb );
 }
 
-.tribe-events-c-subscribe-dropdown__button-text{
+.elementor-kit-5 button{
   background-color: transparent!important;
   color: var(--e-global-color-secondary );
 }
