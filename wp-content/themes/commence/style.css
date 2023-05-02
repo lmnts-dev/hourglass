@@ -169,14 +169,13 @@
   background-color: var(--e-global-color-secondary )!important;
 }
 
-.tribe-common--breakpoint-medium.tribe-events .tribe-events-c-view-selector__list-item:focus, .tribe-common--breakpoint-medium.tribe-events .tribe-events-c-view-selector__list-item:focus-within, .tribe-common--breakpoint-medium.tribe-events .tribe-events-c-view-selector__list-item:hover .tribe-common--breakpoint-medium.tribe-events .tribe-events-c-view-selector--tabs .tribe-events-c-view-selector__list-item--active .tribe-events-c-view-selector__list-item-link:after{
-  background-color: var(--tec-color-accent-secondary);
-  bottom: -1px;
-  content: "";
-  display: block;
-  height: 2px;
-  position: absolute;
-  width: 100%;
+.tribe-events-c-search__button{
+  font-size: 18px;
+  letter-spacing: 0.01em;
+}
+
+.single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button.tribe-events-c-subscribe-dropdown__button--active, .single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus, .single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus-within, .single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button.tribe-events-c-subscribe-dropdown__button--active, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus-within, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .elementor-kit-5 button{
+  color: var(--e-global-color-primary );
 }
 
 @media (max-width: 768px) {
