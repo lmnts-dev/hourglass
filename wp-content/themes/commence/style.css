@@ -43,9 +43,14 @@
 
 .tribe-events-calendar-list__event-title-link{
   font-size: 66px;
-  color: var(--e-global-color-secondary );
+  color: var(--e-global-color-secondary )!important;
   line-height: 45px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Blooming Elegant Sans", Sans-serif;
+}
+
+.tribe-events-c-top-bar__datepicker-desktop{
+  font-size: 18px;
+  font-family: var(--e-global-typography-text-font-family ), Sans-serif;
 }
