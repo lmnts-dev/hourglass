@@ -74,3 +74,11 @@
 .tribe-events-calendar-list__event-datetime{
   font-size: 18px;
 }
+
+.tribe-common .tribe-common-c-btn-border-small, .tribe-common a.tribe-common-c-btn-border-small{
+    border: 2px solid var(--e-global-color-secondary );
+    background-color: transparent!important;
+    border-radius: 0;
+    padding: 11px 18px;
+    font-size: 18px;
+}
