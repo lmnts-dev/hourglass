@@ -29,7 +29,11 @@
 }
 
 .tribe-events-c-subscribe-dropdown__button-text{
-  background: transparent;
+  background-color: transparent!important;
+}
+
+.tribe-events-c-subscribe-dropdown__button-text:hover{
+  background-color: var(--e-global-color-secondary );
 }
 
 .tribe-common--breakpoint-medium.tribe-events .tribe-events-l-container{
@@ -53,4 +57,9 @@
 .tribe-events-c-top-bar__datepicker-desktop{
   font-size: 18px;
   font-family: var(--e-global-typography-text-font-family ), Sans-serif;
+}
+
+.tribe-events-c-subscribe-dropdown__button-icon{
+  margin-left: 0;
+  margin-right: var(--tec-spacer-1);
 }
