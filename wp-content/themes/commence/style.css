@@ -108,6 +108,7 @@
   font-size: 18px;
   font-family: var(--e-global-typography-text-font-family ), Sans-serif;
   color: var(--e-global-color-text);
+  line-height: 18.94px;
 }
 
 .tribe-common-c-svgicon--cal-export{
@@ -117,4 +118,17 @@
 .elementor-kit-5 h1{
   text-transform: uppercase;
   font-family: "Blooming Elegant Sans", Sans-serif;
+}
+
+.tribe-events-schedule{
+  margin-top: 20px;
+}
+
+.tribe-events-venue-map{
+  width: 100%;
+}
+
+.tribe-events-single>.tribe_events{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
