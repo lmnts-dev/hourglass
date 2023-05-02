@@ -82,3 +82,8 @@
     padding: 11px 18px;
     font-size: 18px;
 }
+
+.tribe-common .tribe-common-c-btn-border-small, .tribe-common a.tribe-common-c-btn-border-small:hover{
+  background-color: var(--e-global-color-secondary );
+  color: var(--e-global-color-secondary );
+}
