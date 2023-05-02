@@ -11,7 +11,7 @@
  Text Domain:  commence
 */
 
-/*EVENTS CALENDAR*/
+/****************EVENTS CALENDAR*******************/
 
 /*LIST*/
 
@@ -180,6 +180,12 @@
 
 .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .elementor-kit-5 button{
   color: var(--e-global-color-primary );
+}
+
+/***************FOOTER*******************/
+
+.footer-menu a{
+  border: 2px solid  var(--e-global-color-primary );
 }
 
 @media (max-width: 768px) {
