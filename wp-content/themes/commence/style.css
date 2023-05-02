@@ -153,12 +153,12 @@
   padding: 0;
 }
 
-.tribe-events-c-subscribe-dropdown__button{
+.single-tribe_events .tribe-events-c-subscribe-dropdown__button, .tribe-block__events-link .tribe-events-c-subscribe-dropdown__button{
   display: flex!important;
   align-items: center;
   width: 225px;
 }
 
-.tribe-common-c-svgicon--caret-down{
+.single-tribe_events .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button-icon, .tribe-block__events-link .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button-icon{
   margin-left: 0;
 }
