@@ -132,6 +132,8 @@
 .tribe-events-single>.tribe_events{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  border-top: 1px solid #AAABAC;
+  padding-top: 34px;
 }
 
 .tribe-events-single-event-description{
@@ -161,4 +163,10 @@
 
 .single-tribe_events .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button-icon, .tribe-block__events-link .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button-icon{
   margin-left: 0;
+}
+
+@media (max-width: 768px) {
+  .tribe-events-single>.tribe_events{
+    display: block;
+  }
 }
