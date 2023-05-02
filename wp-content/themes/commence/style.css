@@ -11,3 +11,28 @@
  Text Domain:  commence
 */
 
+/*EVENTS CALENDAR*/
+
+.tribe-events-c-subscribe-dropdown__button{
+  border: 2px solid var(--e-global-color-secondary );
+  border-radius: 0;
+  padding:0;
+}
+
+.tribe-common-c-btn.tribe-events-c-search__button{
+  border-radius: 0;
+  background-color: var(--e-global-color-secondary );
+}
+
+.tribe-events-c-events-bar__search-container, .tribe-events-c-view-selector__content{
+  background-color: var( --e-global-color-af0d1eb );
+}
+
+.tribe-events-c-subscribe-dropdown__button-text{
+  background: transparent;
+}
+
+.tribe-events-l-container{
+  max-width: 1040px;
+  padding: var(--tec-spacer-13);
+}
