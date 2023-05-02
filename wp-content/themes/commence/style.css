@@ -94,6 +94,7 @@
 /*SINGLE EVENT*/
 .tribe-events-event-meta.primary, .tribe-events-event-meta.secondary{
   width: 100%;
+  grid-column: 1 / span 2;
 }
 
 .tribe-events-meta-group .tribe-events-single-section-title{
@@ -111,7 +112,7 @@
   line-height: 18.94px;
 }
 
-.tribe-common-c-svgicon--cal-export{
+.single-tribe_events .tribe-events-c-subscribe-dropdown__export-icon{
   display: none;
 }
 
@@ -131,4 +132,18 @@
 .tribe-events-single>.tribe_events{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+}
+
+.tribe-events-single-event-description{
+  grid-column: 1 / 2;
+  padding-right: 24px;
+}
+
+.tribe-events-event-image{
+  grid-column: 2 / 2;
+  grid-row: 1 / 2;
+}
+
+.tribe-events-event-meta:before{
+  border-top: 1px solid #AAABAC;
 }
