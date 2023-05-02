@@ -113,3 +113,8 @@
 .tribe-common-c-svgicon--cal-export{
   display: none;
 }
+
+.elementor-kit-5 h1{
+  text-transform: uppercase;
+  font-family: "Blooming Elegant Sans", Sans-serif;
+}
