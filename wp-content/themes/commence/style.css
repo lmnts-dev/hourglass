@@ -29,11 +29,11 @@
 }
 
 .elementor-kit-5 button{
-  background-color: transparent!important;
+  background-color: transparent;
   color: var(--e-global-color-secondary );
 }
 
-.tribe-events-c-subscribe-dropdown__button-text:hover{
+.elementor-kit-5 button:hover{
   background-color: var(--e-global-color-secondary );
   color: var(--e-global-color-primary );
 }
