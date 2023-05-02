@@ -147,3 +147,13 @@
 .tribe-events-event-meta:before{
   border-top: 1px solid #AAABAC;
 }
+
+.tribe-events-c-subscribe-dropdown__button-text{
+  text-transform: capitalize;
+  padding: 0;
+}
+
+.tribe-events-c-subscribe-dropdown__button{
+  display: flex;
+  align-items: center;
+}
