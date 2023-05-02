@@ -30,10 +30,12 @@
 
 .tribe-events-c-subscribe-dropdown__button-text{
   background-color: transparent!important;
+  color: var(--e-global-color-secondary );
 }
 
 .tribe-events-c-subscribe-dropdown__button-text:hover{
   background-color: var(--e-global-color-secondary );
+  color: var(--e-global-color-primary );
 }
 
 .tribe-common--breakpoint-medium.tribe-events .tribe-events-l-container{
@@ -41,7 +43,7 @@
   padding: var(--tec-spacer-13);
 }
 
-.tribe-events-calendar-list__event-title{
+.tribe-events .tribe-events-calendar-list__event-title{
   margin-bottom: 24px;
 }
 
@@ -52,6 +54,7 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Blooming Elegant Sans", Sans-serif;
+  font-weight: 400;
 }
 
 .tribe-events-c-top-bar__datepicker-desktop{
@@ -62,4 +65,12 @@
 .tribe-events-c-subscribe-dropdown__button-icon{
   margin-left: 0;
   margin-right: var(--tec-spacer-1);
+}
+
+.tribe-common .tribe-common-h7{
+  font-family: var(--e-global-typography-text-font-family ), Sans-serif;
+}
+
+.tribe-events-calendar-list__event-datetime{
+  font-size: 18px;
 }
