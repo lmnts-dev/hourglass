@@ -202,6 +202,10 @@
   .footer-menu .menu-item{
     margin-bottom: 12px;
   }
+
+  .footer-menu .menu-item a{
+    justify-content: center;
+  }
 }
 
 @media (max-width: 768px) {
