@@ -186,7 +186,7 @@
 
 .footer-menu a{
   border: 2px solid  var(--e-global-color-primary );
-  min-width: 175px;
+  width: 175px;
 }
 
 .elementor-107 .elementor-element.elementor-element-d5ff97b .elementor-nav-menu--main .elementor-item:hover, .elementor-107 .elementor-element.elementor-element-d5ff97b .elementor-nav-menu--main .elementor-item.elementor-item-active, .elementor-107 .elementor-element.elementor-element-d5ff97b .elementor-nav-menu--main .elementor-item.highlighted, .elementor-107 .elementor-element.elementor-element-d5ff97b .elementor-nav-menu--main .elementor-item:focus, .elementor-107 .elementor-element.elementor-element-f37f9ed .elementor-nav-menu--main .elementor-item:hover, .elementor-107 .elementor-element.elementor-element-f37f9ed .elementor-nav-menu--main .elementor-item.elementor-item-active, .elementor-107 .elementor-element.elementor-element-f37f9ed .elementor-nav-menu--main .elementor-item.highlighted, .elementor-107 .elementor-element.elementor-element-f37f9ed .elementor-nav-menu--main .elementor-item:focus{
@@ -196,5 +196,10 @@
 @media (max-width: 768px) {
   .tribe-events-single>.tribe_events{
     display: block;
+  }
+
+  .footer-menu a{
+    border: 2px solid  var(--e-global-color-primary );
+    max-width: 156px;
   }
 }
