@@ -13,7 +13,7 @@
 
 /******************EXTRA****************************/
 .elementor-social-icon{
-  justify-content: start;
+  justify-content: start!important;
 }
 
 /****************EVENTS CALENDAR*******************/
