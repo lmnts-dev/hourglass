@@ -207,4 +207,9 @@
     border: 2px solid  var(--e-global-color-primary );
     max-width: 156px;
   }
+
+  .elementor-social-icon{
+    justify-content: center;
+  }
+
 }
