@@ -11,6 +11,11 @@
  Text Domain:  commence
 */
 
+/******************EXTRA****************************/
+.elementor-social-icon{
+  justify-content: start;
+}
+
 /****************EVENTS CALENDAR*******************/
 
 /*LIST*/
