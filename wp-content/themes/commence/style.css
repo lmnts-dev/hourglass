@@ -207,8 +207,8 @@
     justify-content: center;
   }
 
-  span.elementor-menu-toggle__icon--close, span.elementor-menu-toggle__icon--open{
-    line-height: 20px;
+  .elementor-menu-toggle__icon--open{
+    display: flex;
   }
 }
 
