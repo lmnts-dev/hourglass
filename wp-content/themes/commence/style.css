@@ -182,6 +182,10 @@
   color: var(--e-global-color-primary );
 }
 
+.elementor-107 .elementor-element.elementor-element-d5ff97b .elementor-nav-menu--main .elementor-item:hover{
+  background-color: var(--e-global-color-primary );
+}
+
 /***************FOOTER*******************/
 
 .footer-menu a{
