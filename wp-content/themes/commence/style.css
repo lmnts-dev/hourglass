@@ -198,6 +198,12 @@
   background-color: var(--e-global-color-primary );
 }
 
+@media (max-width: 1024px) {
+  .footer-menu .menu-item{
+    margin-bottom: 12px;
+  }
+}
+
 @media (max-width: 768px) {
   .tribe-events-single>.tribe_events{
     display: block;
