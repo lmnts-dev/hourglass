@@ -206,6 +206,10 @@
   .footer-menu .menu-item a{
     justify-content: center;
   }
+
+  span.elementor-menu-toggle__icon--close, span.elementor-menu-toggle__icon--open{
+    line-height: 20px;
+  }
 }
 
 @media (max-width: 768px) {
