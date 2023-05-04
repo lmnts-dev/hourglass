@@ -195,6 +195,13 @@
   padding: 35px 0 50px;
 }
 
+/*HOME HERO*/
+
+.home-link a{
+  color: var(--e-global-color-primary );
+
+}
+
 /***************FOOTER*******************/
 
 .footer-menu a{
