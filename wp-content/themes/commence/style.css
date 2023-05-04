@@ -192,6 +192,7 @@
 /*NEWSLETTER*/
 .newsletter .e-con-inner{
   border: solid 5px var( --e-global-color-accent );
+  padding: 35px 0 50px;
 }
 
 /***************FOOTER*******************/
