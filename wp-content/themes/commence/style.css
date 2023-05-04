@@ -199,7 +199,10 @@
 
 .home-link a{
   color: var(--e-global-color-primary );
+}
 
+.home-link .elementor-widget-container{
+  width: fit-content;
 }
 
 /***************FOOTER*******************/
