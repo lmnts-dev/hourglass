@@ -187,6 +187,13 @@
   color: var(--e-global-color-primary );
 }
 
+/***************SECTIONS******************/
+
+/*NEWSLETTER*/
+.newsletter .e-con-inner{
+  border: solid 5px var( --e-global-color-accent );
+}
+
 /***************FOOTER*******************/
 
 .footer-menu a{
