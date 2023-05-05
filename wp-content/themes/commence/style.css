@@ -194,7 +194,7 @@
   position: relative;
 }
 
-.merchants .jet-tabs__control-inner:not(:last-child)::after{
+.merchants .jet-tabs__control-inner::after{
   content: "|";
   color: #000;
   right: 0;
