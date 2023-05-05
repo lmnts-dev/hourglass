@@ -188,6 +188,11 @@
 }
 
 /***************SECTIONS******************/
+/*ACCORDIONS*/
+.accordions .elementor-accordion .elementor-accordion-item{
+  border: none;
+  border-bottom: 1px solid #AAABAC;
+}
 
 /*MERCHANTS*/
 .merchants .jet-tabs__control-inner{
