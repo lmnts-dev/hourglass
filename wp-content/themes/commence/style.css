@@ -190,9 +190,14 @@
 /***************SECTIONS******************/
 
 /*MERCHANTS*/
-.merchants .jet-tabs__control-inner::after{
+.merchants .jet-tabs__control-inner{
+  position: relative;
+}
+
+.merchants .jet-tabs__control-inner:not(:last-of-type)::after{
   content: "|";
   color: #000;
+  right: 0;
 }
 
 /*NEWSLETTER*/
