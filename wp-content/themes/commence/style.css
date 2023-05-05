@@ -189,6 +189,11 @@
 
 /***************SECTIONS******************/
 
+/*MERCHANTS*/
+.merchants .jet-tabs__control-inner:not(:last-of-type){
+  border-right: 1px solid #000;
+}
+
 /*NEWSLETTER*/
 .newsletter .e-con-inner{
   border: solid 5px var( --e-global-color-accent );
