@@ -198,6 +198,7 @@
   content: "|";
   color: #000;
   right: 0;
+  position: absolute;
 }
 
 /*NEWSLETTER*/
