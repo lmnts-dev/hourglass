@@ -234,6 +234,11 @@
   background-color: var(--e-global-color-primary );
 }
 
+.footer-menus{
+  flex-direction: row;
+}    
+
+
 @media (max-width: 1024px) {
   .footer-menu .menu-item{
     margin-bottom: 12px;
@@ -265,5 +270,10 @@
   .newsletter{
     margin: 50px 30px;
   }
+}
 
+@media (max-width: 400px) {
+.footer-menus{
+  flex-direction: column;
+}    
 }
