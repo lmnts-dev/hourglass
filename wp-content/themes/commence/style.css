@@ -277,7 +277,11 @@
     flex-direction: column;
   }  
   
-    .footer-menu .menu-item{
-      align-self: center;
-    }
+  .footer-menu{
+    align-self: center;
+  }
+
+  .footer-menu .elementor-widget-container{
+    margin-left: 0;
+  }
 }
