@@ -98,7 +98,7 @@
 
 /*FAQ ACCORDION*/
 
-.faq-accordion .elementor-accordion-item{
+.faq-accordion .elementor-accordion .elementor-accordion-item{
   border-bottom: 1px solid #AAABAC;
 }
 
