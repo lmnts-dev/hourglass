@@ -96,6 +96,13 @@
   color: var(--e-global-color-primary );
 }
 
+/*FAQ ACCORDION*/
+
+.faq-accordion .elementor-accordion-item{
+  border-bottom: 1px solid #AAABAC;
+}
+
+
 /*SINGLE EVENT*/
 .tribe-events-event-meta.primary, .tribe-events-event-meta.secondary{
   width: 100%;
