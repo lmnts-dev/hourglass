@@ -219,7 +219,7 @@
 }
 
 .home-link .elementor-widget-container, .elementor-43 .elementor-element.elementor-element-9224797 > .elementor-widget-container{
-  background-size: 100% 100%;  
+  background-size: 100% 100%!important;  
 }
 
 /***************FOOTER*******************/
