@@ -202,6 +202,14 @@
   border-bottom: 1px solid #AAABAC;
 }
 
+/*CONTACT FORMS*/
+.contact-forms .jet-tabs__control-wrapper{
+  position: absolute;
+  top: -70px;
+  transform: translateX(-50%);
+
+}
+
 /*MERCHANTS*/
 .merchants .jet-tabs__control-inner{
   position: relative;
