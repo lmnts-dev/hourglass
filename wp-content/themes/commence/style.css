@@ -211,6 +211,10 @@
   white-space: nowrap;
 }
 
+#jet-tabs-control-2012{
+  margin-left: 14px;
+}
+
 /*MERCHANTS*/
 .merchants .jet-tabs__control-inner{
   position: relative;
