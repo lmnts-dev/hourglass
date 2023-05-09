@@ -207,6 +207,17 @@
   position: relative;
 }
 
+.merchants .jet-tabs__control-wrapper{
+  display: inline-flex;
+  overflow: scroll;
+  flex-wrap: nowrap;
+  margin: 0;
+}
+
+.merchants .jet-tabs__control{
+  white-space: nowrap;
+}
+
 .merchants .jet-tabs__control-inner::after{
   content: "|";
   color: #000;
