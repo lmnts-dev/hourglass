@@ -207,7 +207,8 @@
   position: absolute;
   top: -70px;
   transform: translateX(-50%);
-
+  flex-wrap: nowrap;
+  white-space: nowrap;
 }
 
 /*MERCHANTS*/
