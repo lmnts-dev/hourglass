@@ -278,6 +278,9 @@
   .newsletter{
     margin: 50px 30px;
   }
+  .merchants .jet-tabs__control-inner::after{
+    content: none;
+  }
 }
 
 @media (max-width: 400px) {
