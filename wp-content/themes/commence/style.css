@@ -300,6 +300,11 @@
   .merchants .jet-tabs__control-inner::after{
     content: none;
   }
+  .contact-forms .jet-tabs__control-wrapper{
+    position: relative;
+    top: auto;
+    transform: initial;
+  }
 }
 
 @media (max-width: 400px) {
