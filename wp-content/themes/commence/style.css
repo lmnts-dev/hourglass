@@ -235,7 +235,7 @@
   white-space: nowrap;
 }
 
-.merchants .jet-tabs__control-inner::after{
+.merchants .jet-tabs__control-inner:not(:last-child)::after{
   content: "|";
   color: #000;
   right: 0;
