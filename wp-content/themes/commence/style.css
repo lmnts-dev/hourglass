@@ -191,7 +191,7 @@
   color: var(--e-global-color-primary );
 }
 
-.single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .tribe-events-c-subscribe-dropdown__button-text, single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus .tribe-events-c-subscribe-dropdown__button-text{
+.single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .tribe-events-c-subscribe-dropdown__button-text, .single-tribe_events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus .tribe-events-c-subscribe-dropdown__button-text{
   color: var(--e-global-color-primary );
 }
 
