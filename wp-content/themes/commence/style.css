@@ -211,7 +211,7 @@
   display: inline-flex;
   overflow: scroll;
   flex-wrap: nowrap;
-  margin: 0;
+  margin: 0!important;
 }
 
 .merchants .jet-tabs__control{
