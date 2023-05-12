@@ -209,7 +209,7 @@
 /*CONTACT FORMS*/
 .contact-forms .jet-tabs__control-wrapper{
   position: absolute;
-  top: -70px;
+  top: -100px;
   transform: translateX(-50%);
   flex-wrap: nowrap;
   white-space: nowrap;
