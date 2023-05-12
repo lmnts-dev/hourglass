@@ -209,7 +209,7 @@
 /*CONTACT FORMS*/
 
 .contact-us{
-  max-width: 1280px;
+  max-width: 1280px!important;
   margin: -330px auto auto;
 }
 
