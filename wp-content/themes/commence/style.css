@@ -328,6 +328,10 @@
     margin-left: 0;
     margin-top: 20px;
   }
+
+  .jet-tabs__control{
+    width: 100%;
+  }
 }
 
 @media (max-width: 400px) {
