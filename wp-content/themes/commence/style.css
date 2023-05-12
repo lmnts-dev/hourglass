@@ -207,6 +207,12 @@
 }
 
 /*CONTACT FORMS*/
+
+.contact-us{
+  max-width: 1280px;
+  margin: -330px auto auto;
+}
+
 .contact-forms .jet-tabs__control-wrapper{
   position: absolute;
   top: -100px;
