@@ -219,6 +219,8 @@
   transform: translateX(-50%);
   flex-wrap: nowrap;
   white-space: nowrap;
+  width: 100%;
+  overflow: visible;
 }
 
 #jet-tabs-control-2012{
