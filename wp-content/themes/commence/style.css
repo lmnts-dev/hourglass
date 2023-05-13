@@ -268,11 +268,11 @@
 }
 
 .hours-table{
-  border-right: 0;
+  border-right: 0!important;
 }
 
 .hours-location-table th:first-of-type{
-  border-right: 0;
+  border-right: 0!important;
 }
 
 /***************FOOTER*******************/
