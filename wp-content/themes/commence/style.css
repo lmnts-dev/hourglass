@@ -267,6 +267,14 @@
   width: fit-content;
 }
 
+.hours-table{
+  border-right: 0;
+}
+
+.hours-location-table th:first-of-type{
+  border-right: 0;
+}
+
 /***************FOOTER*******************/
 
 .footer-menu a{
