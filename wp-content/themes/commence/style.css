@@ -359,6 +359,19 @@
   .jet-tabs__control{
     width: 100%;
   }
+
+  .newsletter-form .frm_fields_container{
+    flex-direction: column;
+  }
+
+  .newsletter-form #frm_field_25_container{
+    width: 100%;
+  }
+
+  .newsletter-form .frm_submit {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 @media (max-width: 400px) {
