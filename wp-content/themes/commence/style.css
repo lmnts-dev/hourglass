@@ -270,7 +270,9 @@
 }
 
 .newsletter-form .frm_final_submit{
-  padding: 14px 30px;
+  max-height: 48px;
+  display: flex;
+  align-items: center;
 }
 
 /*HOME HERO*/
