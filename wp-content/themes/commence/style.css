@@ -256,6 +256,10 @@
   padding: 35px 0 50px;
 }
 
+.newsletter-form .frm_style_formidable-style.with_frm_style.frm_inline_top .frm_submit::before, .frm_style_formidable-style.with_frm_style .frm_submit.frm_inline_submit::before{
+  content: none;
+}
+
 /*HOME HERO*/
 
 .home-link a{
