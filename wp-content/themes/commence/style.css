@@ -309,7 +309,7 @@
   flex-direction: row;
 }    
 
-.footer-social a{
+.footer-social .elementor-icon.elementor-social-icon{
   width: 30px;
   margin-right: 13px;
 }
