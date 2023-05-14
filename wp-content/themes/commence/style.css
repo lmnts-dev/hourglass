@@ -309,6 +309,11 @@
   flex-direction: row;
 }    
 
+.footer-social a{
+  width: 30px;
+  margin-right: 13px;
+}
+
 
 @media (max-width: 1024px) {
   .footer-menu .menu-item{
