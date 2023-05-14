@@ -260,6 +260,19 @@
   content: none;
 }
 
+.newsletter-form .frm_fields_container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.newsletter-form #frm_field_25_container{
+  width: 85%;
+}
+
+.newsletter-form .frm_final_submit{
+  padding: 14px 30px;
+}
+
 /*HOME HERO*/
 
 .home-link a{
