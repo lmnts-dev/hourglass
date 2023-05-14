@@ -243,7 +243,7 @@
   white-space: nowrap;
 }
 
-.merchants .jet-tabs__control-inner:not(:nth-child(2))::after{
+.merchants .jet-tabs__control:not(:last-child) .jet-tabs__control-inner::after{
   content: "|";
   color: #000;
   right: 0;
