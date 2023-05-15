@@ -20,6 +20,10 @@
 
 /*LIST*/
 
+.tribe-events-calendar-latest-past__event-title{
+  text-transform: uppercase;
+}
+
 .tribe-common .tribe-common-c-btn-border, .tribe-common a.tribe-common-c-btn-border{
   border: 2px solid var(--e-global-color-secondary );
   border-radius: 0;
