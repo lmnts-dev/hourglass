@@ -377,6 +377,10 @@
     display: flex;
     justify-content: center;
   }
+
+  .table .td-content{
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 400px) {
