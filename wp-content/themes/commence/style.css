@@ -298,7 +298,12 @@
   border-right: 0!important;
 }
 
-/****************LIST ITEMS*******************/
+/****************DIRECTORY*******************/
+.directory{
+  max-width: 1280px!important;
+  margin: 0 auto;
+}
+
 .styled-list ol{
   counter-reset: orderedlist;
   columns: 2;
