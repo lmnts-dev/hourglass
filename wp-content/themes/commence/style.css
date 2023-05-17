@@ -298,6 +298,16 @@
   border-right: 0!important;
 }
 
+/****************LIST ITEMS*******************/
+.styled-list ol{
+    counter-reset: orderedlist;
+}
+
+.styled-list ol li::before {
+  counter-increment: orderedlist;
+  content: counter(orderedlist);
+}
+
 /***************FOOTER*******************/
 
 .footer-menu a{
