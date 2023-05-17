@@ -300,7 +300,8 @@
 
 /****************LIST ITEMS*******************/
 .styled-list ol{
-    counter-reset: orderedlist;
+  counter-reset: orderedlist;
+  columns: 2;
 }
 
 .styled-list ol li {
@@ -318,6 +319,9 @@
   font-family: 'Blooming Elegant Sans';
   width: 40px;
   height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .styled-list ol li::marker {
