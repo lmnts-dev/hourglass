@@ -306,10 +306,13 @@
 .styled-list ol li::before {
   counter-increment: orderedlist;
   content: counter(orderedlist);
+  border-radius: 0.25em;
+  color: #fff;
+  background-color: var( --e-global-color-accent );
 }
 
 .styled-list ol li::marker {
-  display: none;
+  content: none;
 }
 
 /***************FOOTER*******************/
