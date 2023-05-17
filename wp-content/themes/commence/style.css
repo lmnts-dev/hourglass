@@ -303,10 +303,15 @@
     counter-reset: orderedlist;
 }
 
+.styled-list ol li {
+  position: relative;
+}
+
 .styled-list ol li::before {
   counter-increment: orderedlist;
   content: counter(orderedlist);
-  border-radius: 0.25em;
+  border-radius: 100%;
+  position: absolute;
   color: #fff;
   background-color: var( --e-global-color-accent );
 }
