@@ -308,6 +308,10 @@
   content: counter(orderedlist);
 }
 
+.styled-list ol li::marker {
+  display: none;
+}
+
 /***************FOOTER*******************/
 
 .footer-menu a{
