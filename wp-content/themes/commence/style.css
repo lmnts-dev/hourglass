@@ -306,6 +306,9 @@
 
 .styled-list ol li {
   position: relative;
+  height: 69px;
+  display: flex;
+  align-items: end;
 }
 
 .styled-list ol li::before {
@@ -322,6 +325,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  top: 0;
 }
 
 .styled-list ol li::marker {
