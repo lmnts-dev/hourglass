@@ -309,6 +309,7 @@
   height: 69px;
   display: flex;
   align-items: end;
+  margin-bottom: 30px;
 }
 
 .styled-list ol li::before {
