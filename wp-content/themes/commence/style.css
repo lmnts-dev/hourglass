@@ -425,6 +425,10 @@
   .table .td-content{
     flex-direction: column;
   }
+
+  .styled-list ol li {
+    height: 100px;
+  }
 }
 
 @media (max-width: 400px) {
