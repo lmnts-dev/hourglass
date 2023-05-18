@@ -358,6 +358,11 @@
   margin-right: 13px;
 }
 
+@media (max-width: 1200px) {
+  .styled-list ol li {
+    height: 100px;
+  }
+}
 
 @media (max-width: 1024px) {
   .footer-menu .menu-item{
@@ -370,10 +375,6 @@
 
   .elementor-menu-toggle__icon--open{
     display: flex;
-  }
-
-  .styled-list ol li {
-    height: 100px;
   }
 }
 
