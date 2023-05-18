@@ -371,6 +371,10 @@
   .elementor-menu-toggle__icon--open{
     display: flex;
   }
+
+  .styled-list ol li {
+    height: 100px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -424,10 +428,6 @@
 
   .table .td-content{
     flex-direction: column;
-  }
-
-  .styled-list ol li {
-    height: 100px;
   }
 
   .styled-list ol li::before {
