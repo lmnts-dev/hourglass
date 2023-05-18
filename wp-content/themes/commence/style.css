@@ -309,7 +309,7 @@
   columns: 2;
 }
 
-.styled-list ol li, .merchant-listings .elementor-grid article {
+.styled-list ol li, .merchant-listings .elementor-grid .elementor-post__title {
   position: relative;
   height: 69px;
   display: flex;
@@ -317,7 +317,7 @@
   margin-bottom: 30px;
 }
 
-.styled-list ol li::before, .merchant-listings .elementor-grid article::before {
+.styled-list ol li::before, .merchant-listings .elementor-grid .elementor-post__title::before {
   counter-increment: orderedlist;
   content: counter(orderedlist);
   border-radius: 100%;
