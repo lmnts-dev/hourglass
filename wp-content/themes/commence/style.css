@@ -433,8 +433,6 @@
 
   .styled-list ol li::before {
     font-size: 2rem;
-    width: 30px;
-    height: 30px;
   }
 }
 
