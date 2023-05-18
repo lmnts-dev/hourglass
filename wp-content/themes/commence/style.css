@@ -435,6 +435,10 @@
   .styled-list ol li::before {
     font-size: 2rem;
   }
+
+  .hours-table{
+    width: 50%;
+  }
 }
 
 @media (max-width: 400px) {
