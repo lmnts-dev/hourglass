@@ -307,6 +307,7 @@
 .styled-list ol, .merchant-listings .elementor-grid{
   counter-reset: orderedlist;
   columns: 2;
+  grid-row-gap: 0px;
 }
 
 .styled-list ol li, .merchant-listings .elementor-grid .elementor-post__title {
