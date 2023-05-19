@@ -20,7 +20,7 @@
   display: none;
 }
 
-.link--blue{
+.link--blue a{
   color: var(--e-global-color-secondary )!important;
 }
 
