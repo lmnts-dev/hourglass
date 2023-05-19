@@ -77,6 +77,10 @@
   font-weight: 400;
 }
 
+.tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .tribe-events-c-subscribe-dropdown__button-text{
+  color: var(--e-global-color-primary )!important;
+}
+
 .tribe-events-c-top-bar__datepicker-desktop{
   font-size: 18px;
   font-family: var(--e-global-typography-text-font-family ), Sans-serif;
