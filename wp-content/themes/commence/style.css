@@ -77,7 +77,7 @@
   font-weight: 400;
 }
 
-.tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .tribe-events-c-subscribe-dropdown__button-text, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus .tribe-events-c-subscribe-dropdown__button-text{
+.tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover .tribe-events-c-subscribe-dropdown__button-text, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus .tribe-events-c-subscribe-dropdown__button-text, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus-within .tribe-events-c-subscribe-dropdown__button-text{
   color: var(--e-global-color-primary )!important;
 }
 
