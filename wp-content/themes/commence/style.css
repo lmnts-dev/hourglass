@@ -396,6 +396,14 @@
     display: none;
   }
 
+  .building-hours .e-con-inner{
+    flex-direction: column;
+  }
+
+  .building-hours .e-con-inner .elementor-element{
+    width: 100%;
+  }
+
   .footer-menu a{
     border: 2px solid  var(--e-global-color-primary );
     max-width: 156px;
