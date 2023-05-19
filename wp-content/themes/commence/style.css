@@ -439,6 +439,10 @@
   .hours-table{
     width: 50%;
   }
+
+  .newsletter .e-con-inner{
+    padding: 19px 0 29px;
+  }
 }
 
 @media (max-width: 400px) {
