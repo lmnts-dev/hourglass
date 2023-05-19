@@ -20,6 +20,10 @@
   display: none;
 }
 
+.link--blue{
+  color: var(--e-global-color-secondary )!important;
+}
+
 /****************EVENTS CALENDAR*******************/
 
 /*LIST*/
