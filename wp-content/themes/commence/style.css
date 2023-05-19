@@ -392,6 +392,10 @@
     display: block;
   }
 
+  .th-mobile-screen{
+    display: none;
+  }
+
   .footer-menu a{
     border: 2px solid  var(--e-global-color-primary );
     max-width: 156px;
